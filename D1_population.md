@@ -3,7 +3,7 @@
 ## Title of the Dataset:2010-2018 US population
 
 ## Data Cleaning assessment
-* Cleaning needs: Need to combine data from other datasets because the main dataset of this project cotains data from 1949-2013. I will have to spend at least 4 hours on this file.
+* Cleaning needs: Need to combine data from other datasets because the main dataset of this project cotains data from 1949-2013. I will have to spend at least 5 more hours on this file, and I only have to use excel to process this file.
 * Hand coding/Hand editing statements: I'll need to delete a few rows if I want to make the whold dataset looks cleaner. Also, due to the fact that some of the required info is missed, I will have to manually find other datasets/data to fulfill my original design.
 
 ## Data Information
