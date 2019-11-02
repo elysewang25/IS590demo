@@ -3,14 +3,14 @@
 ## Title of the Dataset: Climate at a Glance: City Time Series
 
 ## Data Cleaning assessment
-* Cleaning needs: This dataset is manually  
-* Hand coding/Hand editing statements: Since the file structure is a littile bit special (a .shape file), I will have to read through it by using Jupyter Notebook. 
+* Cleaning needs: This dataset is manually constructed by using the web scraping approache, so no specific cleaning is needed. (I kept making sure the whole dataset looks clean during the process.)
+* Hand coding/Hand editing statements: I used web scraping approaches for obtaining data and manually collect/place the data into this dataset. During the process, I noticed that one of the states is missing (Hawaii), and I found the problem, which is because of the time. Hawaii was seen as a state of the US since 1959, whereas the data I collected is from 1949 to now. I can only find Hawaii's data from 1950 to now, but this will not influence the result I want. 
 
 ## Data Information
 
 ### Authorship
-* U.S. Geological Survey, 201404, USGS Small-scale Dataset - 1:1,000,000-Scale Contours of the Conterminous United States 201404 Shapefile: U.S. Geological Survey.
-* [Link of this reference](https://www.sciencebase.gov/catalog/item/581d051de4b08da350d523c3)
+* NOAA National Centers for Environmental information, Climate at a Glance: City Time Series, published October 2019, retrieved on November 1, 2019 from https://www.ncdc.noaa.gov/cag/
+* [Link of this reference](https://www.ncdc.noaa.gov/cag/city/time-series/USW00022521/tavg/12/12/1949-2013?base_prd=true&begbaseyear=1948&endbaseyear=2000)
 
 
 ### Semantic content of the file
