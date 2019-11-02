@@ -3,7 +3,7 @@
 ## Title of the Dataset:UFO Sightings
 
 ## Data Cleaning assessment
-* Cleaning needs: This dataset contains several null values that are needed to be remove. Also, detailed descriptions are difficult to be valued, and the timestamp formates are vary.
+* Cleaning needs: This dataset contains several null values that are needed to be remove. Also, detailed descriptions are difficult to be valued, and the timestamp formates are vary. Based on this, I have to spend at least 10 more hours on this dataset, and for convenience, and I use Jupyter notebook to read the file.
 * Hand coding/Hand editing statements: I'll need to delete a few rows if I want to make the whold dataset looks cleaner. Also, due to the fact that some of the required info is missed, I will have to manually find other datasets/data to fulfill my original design.
 
 ## Data Information
